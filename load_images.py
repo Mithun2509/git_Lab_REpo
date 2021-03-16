@@ -5,6 +5,7 @@ import random
 from sklearn.utils import shuffle
 import pickle
 import os
+import pandas as pd
 
 def pickle_images_labels():
 	images_labels = []
