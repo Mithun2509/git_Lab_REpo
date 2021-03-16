@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 import pickle, os, sqlite3, random
-
+import pandas as pd
 image_x, image_y = 50, 50
 
 
