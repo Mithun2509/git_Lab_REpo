@@ -1,6 +1,7 @@
 import cv2, pickle
 import numpy as np
 import tensorflow as tf
+import tensorflow as tf
 from cnn_tf import cnn_model_fn
 import os
 import sqlite3
