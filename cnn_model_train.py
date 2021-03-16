@@ -14,7 +14,7 @@ from keras.callbacks import ModelCheckpoint
 from keras import backend as K
 
 K.set_image_data_format('channels_last')
-#os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
+os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
 
 def get_image_size():
 	img = cv2.imread('gestures/0/100.jpg', 0)
