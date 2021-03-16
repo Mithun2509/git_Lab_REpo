@@ -2,7 +2,6 @@ import numpy as np
 import pickle
 import cv2, os
 from glob import glob
-import tensorflow as tf
 from tensorflow.keras import optimizers
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Dense
