@@ -1,6 +1,6 @@
 import numpy as np
 import pickle
-import cv2, os
+#import cv2, os
 from glob import glob
 from tensorflow.keras import optimizers
 from tensorflow.keras.models import Sequential
