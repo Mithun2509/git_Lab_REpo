@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Check for experiment-8 task-2
+=======
+Check for experiment-8 checking
+>>>>>>> 505ceccf1e2e739ec3a225013a8d4270bc9631c3

@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hii Check for git task-8
+=======
+Hiii this is for sCenario-3
+>>>>>>> 505ceccf1e2e739ec3a225013a8d4270bc9631c3
